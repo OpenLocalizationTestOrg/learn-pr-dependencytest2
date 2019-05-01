@@ -1,65 +1,69 @@
 {
   "docsets_to_publish": [
     {
-      "docset_name": "javatestdependency",
-      "build_source_folder": "javatestdependency",
-      "build_output_subfolder": "javatestdependency",
+      "docset_name": "learn-PDETs-pr",
+      "build_source_folder": "learn-PDETs-pr",
+      "build_output_subfolder": "learn-PDETs-pr",
       "locale": "en-us",
-      "monikers": [],
-      "moniker_ranges": [],
+      "monikers": [
+        
+      ],
+      "moniker_ranges": [
+        
+      ],
       "open_to_public_contributors": true,
       "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
+        "Achievements": "Toc",
+        "LearningPath": "Content",
+        "Module": "Content",
+        "ModuleUnit": "Content",
+        "ZonePivotGroups": "Toc"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes.VS.Modern",
-      "base_path": "java",
-      "site_name": "VS.Modern",
-      "customized_template_paths": [
-        "_dependentPackages/memberpage.plugins/content"
-      ],
+      "template_folder": "_themes",
       "customized_tasks": {
-        "docset_prebuild": [
-          "_dependentPackages/CommonPlugins/tools/SplitTOC.ps1"
+        "docset_postbuild": [
+          "_dependentPackages/CommonPlugins/tools/TripleCrownValidation.ps1"
         ]
-      },
-      "SplitTOC": [
-        "docs-ref-autogen/toc.yml"
-      ]
+      }
     }
   ],
-  "notification_subscribers": [],
-  "sync_notification_subscribers": [],
-  "branches_to_filter": [],
+  "enable_incremental_build": false,
+  "notification_subscribers": [
+    
+  ],
+  "sync_notification_subscribers": [
+    
+  ],
+  "branches_to_filter": [
+    
+  ],
   "skip_source_output_uploading": false,
-  "need_preview_pull_request": false,
-  "contribution_branch_mappings": {},
+  "need_preview_pull_request": true,
+  "contribution_branch_mappings": {
+    
+  },
   "dependent_repositories": [
     {
-      "path_to_root": "_themes.VS.Modern",
-      "url": "https://github.com/Microsoft/templates.vs.com",
+      "path_to_root": "_themes",
+      "url": "https://github.com/Microsoft/templates.docs.msft",
       "branch": "master",
-      "branch_mapping": {}
+      "branch_mapping": {
+        
+      }
     }
   ],
-  "branch_target_mapping": {},
-  "need_generate_pdf_url_template": false,
   "dependent_packages": [
     {
       "id": "Microsoft.OpenPublishing.CommonPlugins",
-      "nuget_feed": "https://www.myget.org/F/op-dev/api/v2",
+      "nuget_feed": "https://www.myget.org/F/op/api/v2",
       "path_to_root": "_dependentPackages/CommonPlugins",
       "target_framework": "net45",
-      "version": "latest-prerelease"
-    },
-    {
-      "id": "memberpage.plugins",
-      "nuget_feed": "https://www.myget.org/F/docfx-dev/api/v2",
-      "path_to_root": "_dependentPackages/memberpage.plugins",
-      "target_framework": "net45",
-      "version": "latest-prerelease"
+      "version": "latest"
     }
-  ]
+  ],
+  "branch_target_mapping": {
+    
+  },
+  "need_generate_pdf_url_template": false
 }

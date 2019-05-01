@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.communicate-using-email.compose-and-send-an-email
+title: Compose and Send an Email
+metadata:
+  title: Compose and Send an Email - Learn
+  description: Compose and Send an Email - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+content: |
+  [!include[](includes/5-compose-and-send-an-email.md)]

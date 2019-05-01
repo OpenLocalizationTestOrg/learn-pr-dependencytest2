@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.communicate-using-email.read-and-reply-to-email
+title: Read and Reply to Email
+metadata:
+  title: Read and Reply to Email - Learn
+  description: Read and Reply to Email - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+content: |
+  [!include[](includes/6-read-and-reply-to-email.md)]

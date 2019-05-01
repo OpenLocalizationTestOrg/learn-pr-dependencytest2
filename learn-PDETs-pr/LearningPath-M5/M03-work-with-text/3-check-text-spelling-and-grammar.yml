@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.work-with-text.check-text-spelling-and-grammar
+title: Check Text Spelling and Grammar
+metadata:
+  title: Check Text Spelling and Grammar - Learn
+  description: Check Text Spelling and Grammar - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+content: |
+  [!include[](includes/3-check-text-spelling-and-grammar.md)]

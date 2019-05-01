@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.work-with-contacts-and-tasks.create-tasks-and-to-do-Lists
+title: Create Tasks and To-do Lists
+metadata:
+  title: Create Tasks and To-do Lists - Learn
+  description: Create Tasks and To-do Lists - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+content: |
+  [!include[](includes/4-create-tasks-and-to-do-Lists.md)]

@@ -1,0 +1,36 @@
+### YamlMime:Module
+uid: learn.wwl-playground.search-the-web
+metadata:
+  title: Search the Web - Learn
+  description: Search the Web - Learn
+  ms.date: 01/31/2019
+  author: ctesta-oneillmsft
+  ms.author: chris.testaoneill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+title: Search the Web
+summary: "We'll learn the basics of searching the web using web search engines and web browsers."
+abstract: | 
+  In this module, you will be able to:
+  - Describe the use of search engines
+  - Conduct a simple keyword search using a search engine
+  - Configure a browser to use a specific search engine
+  - Compare search results returned by a search engine
+  - Describe ways to evaluate the credibility and accuracy of online content
+prerequisites: None.
+iconUrl: /learn/achievements/generic-badge.svg
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows
+units:
+- learn.wwl-playground.search-the-web.introduction
+- learn.wwl-playground.search-the-web.use-a-search-engine
+- learn.wwl-playground.search-the-web.search-tips
+- learn.wwl-playground.search-the-web.evaluate-online-information
+- learn.wwl-playground.search-the-web.evaluate-media
+- learn.wwl-playground.search-the-web.summary
+badge:
+  uid: learn.wwl-playground.search-the-web.badge

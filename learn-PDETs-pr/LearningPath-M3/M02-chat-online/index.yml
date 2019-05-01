@@ -1,0 +1,37 @@
+### YamlMime:Module
+uid: learn.wwl-playground.chat-online
+metadata:
+  title: Chat Online - Learn
+  description: Chat Online - Learn
+  ms.date: 01/31/2019
+  author: ctesta-oneillmsft
+  ms.author: chris.testaoneill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+title: Chat Online
+summary: "We'll explore these methods of communicating online."
+abstract: | 
+  In this module, you will be able to:
+  - Describe common ways to communicate with others online
+  - Use Skype or similar services to send instant messages to others
+  - Make voice calls on the Web
+  - Make video calls on the Web
+prerequisites: None.
+iconUrl: /learn/achievements/generic-badge.svg
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows
+units:
+- learn.wwl-playground.chat-online.introduction
+- learn.wwl-playground.chat-online.introito-im-voice-and-video-calling
+- learn.wwl-playground.chat-online.sign-in-and-out
+- learn.wwl-playground.chat-online.add-contacts
+- learn.wwl-playground.chat-online.set-up-audio-and-video
+- learn.wwl-playground.chat-online.chat-basics
+- learn.wwl-playground.chat-online.make-a-call
+- learn.wwl-playground.chat-online.summary
+badge:
+  uid: learn.wwl-playground.chat-online.badge

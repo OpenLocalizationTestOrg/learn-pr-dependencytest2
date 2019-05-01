@@ -1,0 +1,62 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.share-and-collaborate-with-documents.summary
+title: Summary
+metadata:
+  title: Summary - Learn
+  description: Summary - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+
+quiz:
+  title: Check your knowledge
+  questions:
+
+  - content: "To add a comment to a Word document, find the <b>New Comment</b> option in which menu of the Word ribbon?"
+    choices:
+      - content: "Home"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "Review"
+        isCorrect: true
+        explanation: "correct choice"
+      - content: "View"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "Edit"
+        isCorrect: false
+        explanation: "incorrect choice"
+
+  - content: "For a preview of how the document will look if you make all the suggested changes permanent, which of the following options should you choose?"
+    choices:
+      - content: "Simple Markup"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "All Markup"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "No Markup"
+        isCorrect: true
+        explanation: "correct choice"
+      - content: "Original"
+        isCorrect: false
+        explanation: "incorrect choice"
+
+  - content: "To accept or reject tracked changes, which Word menu should you use?"
+    choices:
+      - content: "View"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "Review"
+        isCorrect: true
+        explanation: "correct choice"
+      - content: "Layout"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "Home"
+        isCorrect: false
+        explanation: "incorrect choice"

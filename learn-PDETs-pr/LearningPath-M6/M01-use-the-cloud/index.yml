@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn.wwl-playground.use-the-cloud
+metadata:
+  title: Use the Cloud - Learn
+  description: Use the Cloud - Learn
+  ms.date: 01/31/2019
+  author: ctesta-oneillmsft
+  ms.author: chris.testaoneill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+title: Use the Cloud
+summary: "You will learn about the Cloud and how you can use it."
+abstract: | 
+  In this module, You will be able to:
+  -  Describe uses of cloud services like OneDrive
+  -  Sign in to OneDrive.
+  -  Use OneDrive from a mobile device
+  -  Create, upload, restore and share files using OneDrive
+prerequisites: None.
+iconUrl: /learn/achievements/generic-badge.svg
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows
+units:
+- learn.wwl-playground.use-the-cloud.introduction
+- learn.wwl-playground.use-the-cloud.why-use-the-cloud
+- learn.wwl-playground.use-the-cloud.getting-started-with-oneDrive
+- learn.wwl-playground.use-the-cloud.sign-in-or-create-an-account
+- learn.wwl-playground.use-the-cloud.learn-the-basics
+- learn.wwl-playground.use-the-cloud.set-up-oneDrive-on-your-phone-or-tabletet-your-phone-or-tablet
+- learn.wwl-playground.use-the-cloud.use-the-oneDrive-mobile-app
+- learn.wwl-playground.use-the-cloud.upload-files-and-folders
+- learn.wwl-playground.use-the-cloud.create-files-and-folders
+- learn.wwl-playground.use-the-cloud.restore-deleted-files
+- learn.wwl-playground.use-the-cloud.share-files-and-folders
+- learn.wwl-playground.use-the-cloud.summary
+badge:
+  uid: learn.wwl-playground.use-the-cloud.badge

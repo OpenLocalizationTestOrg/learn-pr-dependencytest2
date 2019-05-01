@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.work-with-word-documents.summary
+title: Summary
+metadata:
+  title: Summary - Learn
+  description: Summary - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+
+quiz:
+  title: Check your knowledge
+  questions:
+
+  - content: "Which of the following types of content would Microsoft Word be most appopriate to use for?"
+    choices:
+      - content: "numerical spreadsheets"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "letters"
+        isCorrect: true
+        explanation: "correct choice"
+      - content: "slide presentations"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "formulas and calculations"
+        isCorrect: false
+        explanation: "incorrect choice"
+
+  - content: "Which of the following file extensions are Word documents typically saved with?"
+    choices:
+      - content: ".xls"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: ".docx or .doc"
+        isCorrect: true
+        explanation: "correct choice"
+      - content: ".ppt"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: ".word"
+        isCorrect: false
+        explanation: "incorrect choice"

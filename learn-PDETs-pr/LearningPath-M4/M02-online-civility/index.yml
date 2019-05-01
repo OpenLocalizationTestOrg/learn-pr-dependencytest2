@@ -1,0 +1,32 @@
+### YamlMime:Module
+uid: learn.wwl-playground.online-civility
+metadata:
+  title: Online Civility - Learn
+  description: Online Civility - Learn
+  ms.date: 01/31/2019
+  author: ctesta-oneillmsft
+  ms.author: chris.testaoneill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+title: Online Civility
+summary: "You will learn how to responsibly use the Internet and the Web."
+abstract: | 
+  In this module, you will be able to:
+  - Describe the rights that people have to information and content shared on the Web
+  - Describe best practices for using information found on the Web
+  - Describe the implications of treating others poorly on the Web
+prerequisites: None.
+iconUrl: /learn/achievements/generic-badge.svg
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows
+units:
+- learn.wwl-playground.online-civility.introduction
+- learn.wwl-playground.online-civility.use-information-responsibly
+- learn.wwl-playground.online-civility.cyberbullying
+- learn.wwl-playground.online-civility.summary
+badge:
+  uid: learn.wwl-playground.online-civility.badge

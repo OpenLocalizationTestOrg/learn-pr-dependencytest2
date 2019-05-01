@@ -1,0 +1,32 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.microsoft-office.summary
+title: Summary
+metadata:
+  title: Summary - Learn
+  description: Summary - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+
+quiz:
+  title: Check your knowledge
+  questions:
+
+  - content: "You want to access Microsoft Word and other Microsoft Office apps from your laptop without installing any software.You do not have an Office subscription. Which of the following Microsoft Office offerings is your best option?"
+    choices:
+      - content: "Office 365"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "Office Online"
+        isCorrect: true
+        explanation: "correct choice"
+      - content: "Office 2016"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "Office Direct"
+        isCorrect: false
+        explanation: "incorrect choice"

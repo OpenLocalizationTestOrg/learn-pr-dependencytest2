@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.use-the-cloud.sign-in-or-create-an-account
+title: Sign in or Create an Account
+metadata:
+  title: Sign in or Create an Account - Learn
+  description: Sign in or Create an Account - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+content: |
+  [!include[](includes/4-sign-in-or-create-an-account.md)]

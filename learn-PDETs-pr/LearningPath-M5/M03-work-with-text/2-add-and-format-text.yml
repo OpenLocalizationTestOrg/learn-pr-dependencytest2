@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.work-with-text.add-and-format-text
+title: Add and Format Text
+metadata:
+  title: Add and Format Text - Learn
+  description: Add and Format Text - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+content: |
+  [!include[](includes/2-add-and-format-text.md)]

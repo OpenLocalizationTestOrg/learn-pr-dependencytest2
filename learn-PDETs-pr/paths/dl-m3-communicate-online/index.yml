@@ -1,0 +1,29 @@
+### YamlMime:LearningPath
+uid: learn.communicate-online
+metadata:
+  title: Communicate Online
+  description: Communicate Online
+  brand: azure
+  ms.date: 12/27/2018
+  author: markjulmar
+  ms.author: smmark
+  #ms.learn-contact: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+title: Communicate Online
+summary: |
+  There are many ways to stay in touch with others using the internet and the Web. Take these lessons to learn how to communicate using email, instant messaging, voice and video calling over the Internet. 
+
+#prerequisites: None
+iconUrl: /learn/achievements/generic-badge.svg
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows
+modules:
+- learn.wwl-playground.communicate-using-email
+- learn.wwl-playground.chat-online
+trophy:
+  uid: learn.communicate-online.trophy

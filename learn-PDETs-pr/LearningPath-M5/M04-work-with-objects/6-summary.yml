@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.work-with-objects.summary
+title: Summary
+metadata:
+  title: Summary - Learn
+  description: Summary - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+
+quiz:
+  title: Check your knowledge
+  questions:
+
+  - content: "Which of the following menus should you use to insert WordArt?"
+    choices:
+      - content: "Design"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "Draw"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "Insert"
+        isCorrect: true
+        explanation: "correct choice"
+      - content: "View"
+        isCorrect: false
+        explanation: "incorrect choice"
+
+  - content: "From which menu can you apply a design to a table you've already created?"
+    choices:
+      - content: "Insert"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "Design"
+        isCorrect: true
+        explanation: "correct choice"
+      - content: "Layout"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "View"
+        isCorrect: false
+        explanation: "incorrect choice"

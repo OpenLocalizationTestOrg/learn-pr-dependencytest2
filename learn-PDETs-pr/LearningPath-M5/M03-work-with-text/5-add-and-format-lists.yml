@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.work-with-text.add-and-format-lists
+title: Add and Format Lists
+metadata:
+  title: Add and Format Lists - Learn
+  description: Add and Format Lists - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+content: |
+  [!include[](includes/5-add-and-format-lists.md)]

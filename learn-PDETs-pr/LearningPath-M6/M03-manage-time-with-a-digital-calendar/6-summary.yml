@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.manage-time-with-a-digital-calendar.summary
+title: Summary
+metadata:
+  title: Summary - Learn
+  description: Summary - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+
+quiz:
+  title: Check your knowledge
+  questions:
+
+  - content: "When you search for a keyword, a result will be included if it contains the keyword(s) in the:"
+    choices:
+      - content: "Attendees"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "Subject"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "Attachments"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "All the above"
+        isCorrect: true
+        explanation: "correct choice"
+
+  - content: "In Outlook calendar, the longest reminder you can set for an appointment is:"
+    choices:
+      - content: "A day"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "A week"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "Two weeks"
+        isCorrect: true
+        explanation: "correct choice"
+      - content: "A month"
+        isCorrect: false
+        explanation: "incorrect choice"

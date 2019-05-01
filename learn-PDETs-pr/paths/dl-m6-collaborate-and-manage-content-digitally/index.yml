@@ -1,0 +1,31 @@
+### YamlMime:LearningPath
+uid: learn.collaborate-and-manage-content-digitally
+metadata:
+  title: Collaborate and Manage Content Digitally
+  description: Collaborate and Manage Content Digitally
+  brand: azure
+  ms.date: 12/27/2018
+  author: markjulmar
+  ms.author: smmark
+  #ms.learn-contact: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+title: Collaborate and Manage Content Digitally
+summary: |
+  Using the Cloud, we can collaborate and share information with others instantly. In these lessons, you'll learn how to store and share files online, and collaborate with others using digital calendars and organization programs.
+
+#prerequisites: None
+iconUrl: /learn/achievements/generic-badge.svg
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows
+modules:
+- learn.wwl-playground.use-the-cloud
+- learn.wwl-playground.share-and-collaborate-with-documents
+- learn.wwl-playground.manage-time-with-a-digital-calendar
+- learn.wwl-playground.work-with-contacts-and-tasks
+trophy:
+  uid: learn.collaborate-and-manage-content-digitally.trophy

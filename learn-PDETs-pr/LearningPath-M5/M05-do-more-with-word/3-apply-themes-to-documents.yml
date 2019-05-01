@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.do-more-with-word.apply-themes-to-documents
+title: Apply Themes to Documents
+metadata:
+  title: Apply Themes to Documents - Learn
+  description: Apply Themes to Documents - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+content: |
+  [!include[](includes/3-apply-themes-to-documents.md)]

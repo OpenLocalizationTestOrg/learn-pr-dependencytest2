@@ -1,0 +1,33 @@
+### YamlMime:LearningPath
+uid: learn.create-digital-content
+metadata:
+  title: Create Digital Content
+  description: Create Digital Content
+  brand: azure
+  ms.date: 12/27/2018
+  author: markjulmar
+  ms.author: smmark
+  #ms.learn-contact: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+title: Create Digital Content
+summary: |
+  Productivity tools help you create professional work using your computer. Complete these lessons to learns to learn how to use Microsoft Office to create and work with documents.
+
+#prerequisites: None
+iconUrl: /learn/achievements/generic-badge.svg
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows
+modules:
+- learn.wwl-playground.microsoft-office
+- learn.wwl-playground.work-with-word-documents
+- learn.wwl-playground.work-with-text
+- learn.wwl-playground.work-with-objects
+- learn.wwl-playground.do-more-with-word
+- learn.wwl-playground.work-with-pdfs-in-word
+trophy:
+  uid: learn.create-digital-content.trophy

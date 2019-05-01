@@ -1,0 +1,34 @@
+### YamlMime:Module
+uid: learn.wwl-playground.manage-time-with-a-digital-calendar
+metadata:
+  title: Manage Time with a Digital Calendar - Learn
+  description: Manage Time with a Digital Calendar - Learn
+  ms.date: 01/31/2019
+  author: ctesta-oneillmsft
+  ms.author: chris.testaoneill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+title: Manage Time with a Digital Calendar
+summary: "You will learn about Outlook Calendar, the calendar feature of the Outlook mail app."
+abstract: | 
+  In this module, you will be able to:
+  - Create appointments and meetings.
+  - Search for an item in your calendar.
+  - Use categories and reminders.
+prerequisites: None.
+iconUrl: /learn/achievements/generic-badge.svg
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows
+units:
+- learn.wwl-playground.manage-time-with-a-digital-calendar.introduction
+- learn.wwl-playground.manage-time-with-a-digital-calendar.meet-outlook-calendar
+- learn.wwl-playground.manage-time-with-a-digital-calendar.create-appointments-and-meetings
+- learn.wwl-playground.manage-time-with-a-digital-calendar.search-your-calendar
+- learn.wwl-playground.manage-time-with-a-digital-calendar.use-calendar-categories-and-reminders
+- learn.wwl-playground.manage-time-with-a-digital-calendar.summary
+badge:
+  uid: learn.wwl-playground.manage-time-with-a-digital-calendar.badge

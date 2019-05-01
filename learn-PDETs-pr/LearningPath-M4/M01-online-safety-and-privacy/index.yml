@@ -1,0 +1,38 @@
+### YamlMime:Module
+uid: learn.wwl-playground.online-safety-and-privacy
+metadata:
+  title: Online Safety and Privacy- Learn
+  description: Online Safety and Privacy - Learn
+  ms.date: 01/31/2019
+  author: ctesta-oneillmsft
+  ms.author: chris.testaoneill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+title: Online Safety and Privacy
+summary: "You will learn about some of the safety risks that can affect you when you are using the Internet, and tips for saying safe and keeping your information private online."
+abstract: | 
+  In this module, you will be able to:
+  - Describe safety risks associated with using the Internet and the Web.
+  - Identify signs of online scams like phishing
+  - Describe best practices for safely interacting with other people online.
+  - Identify characteristics of a strong password.
+  - Describe best practices for sharing information online
+  - Describe the importance of managing your digital footprint
+prerequisites: None.
+iconUrl: /learn/achievements/generic-badge.svg
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows
+units:
+- learn.wwl-playground.online-safety-and-privacy.introduction
+- learn.wwl-playground.online-safety-and-privacy.protect-yourself-from-phishing
+- learn.wwl-playground.online-safety-and-privacy.communicate-safely-online
+- learn.wwl-playground.online-safety-and-privacy.create-strong-passwords
+- learn.wwl-playground.online-safety-and-privacy.be-smart-when-you-share
+- learn.wwl-playground.online-safety-and-privacy.your-digital-footprint
+- learn.wwl-playground.online-safety-and-privacy.summary
+badge:
+  uid: learn.wwl-playground.online-safety-and-privacy.badge

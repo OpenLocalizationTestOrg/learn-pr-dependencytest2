@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.microsoft-office.intro-to-microsoft-office
+title: Intro to Microsoft Office
+metadata:
+  title: Intro to Microsoft Office - Learn
+  description: Intro to Microsoft Office - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+content: |
+  [!include[](includes/2-intro-to-microsoft-office.md)]

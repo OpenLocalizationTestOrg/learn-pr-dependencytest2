@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.work-with-text.summary
+title: Summary
+metadata:
+  title: Summary - Learn
+  description: Summary - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+
+quiz:
+  title: Check your knowledge
+  questions:
+
+  - content: "To select a whole line of text in Word, you can:"
+    choices:
+      - content: "Click to the left of the text."
+        isCorrect: true    
+        explanation: "correct choice"
+      - content: "Click to the right of the text."
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "Select the first word in the text."
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "Select the last word in text."
+        isCorrect: false
+        explanation: "incorrect choice"
+
+  - content: "Which of the following commands opens the Replace feature?"
+    choices:
+      - content: "Ctrl+r"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "Ctrl+s"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "Ctrl+h"
+        isCorrect: true    
+        explanation: "correct choice"        
+      - content: "Ctrl+n"
+        isCorrect: false
+        explanation: "incorrect choice"

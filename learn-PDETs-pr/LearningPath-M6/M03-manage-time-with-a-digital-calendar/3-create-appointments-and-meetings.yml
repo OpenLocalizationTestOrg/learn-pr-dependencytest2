@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.manage-time-with-a-digital-calendar.create-appointments-and-meetings
+title: Create Appointments and Meetings
+metadata:
+  title: Create Appointments and Meetings - Learn
+  description: Create Appointments and Meetings - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+content: |
+  [!include[](includes/3-create-appointments-and-meetings.md)]

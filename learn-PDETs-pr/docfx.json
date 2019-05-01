@@ -1,0 +1,109 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "achievements.yml"
+        ],
+        "dest": "achievements/main/"
+      },
+      {
+        "src": "LearningPath-M1",
+        "files": [
+          "**.yml"
+        ],
+        "dest": "modules"
+      },
+      {
+        "src": "LearningPath-M2",
+        "files": [
+          "**.yml"
+        ],
+        "dest": "modules"
+      },
+      {
+        "src": "LearningPath-M3",
+        "files": [
+          "**.yml"
+        ],
+        "dest": "modules"
+      },
+      {
+        "src": "LearningPath-M4",
+        "files": [
+          "**.yml"
+        ],
+        "dest": "modules"
+      },
+      {
+        "src": "LearningPath-M5",
+        "files": [
+          "**.yml"
+        ],
+        "dest": "modules"
+      },
+      {
+        "src": "LearningPath-M6",
+        "files": [
+          "**.yml"
+        ],
+        "dest": "modules"
+      },      
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE",
+          "ThirdPartyNotices"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/*.gif",
+          "**/*.png",
+          "**/*.svg",
+          "**/*.jpg",
+          "**/*.jpeg"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**"
+        ]
+      }
+    ],
+    "overwrite": [
+      
+    ],
+    "externalReference": [
+      
+    ],
+    "globalMetadata": {
+      "breadcrumb_path": "/learn/breadcrumb/toc.json",
+      "extendBreadcrumb": true,
+      "feedback_system": "GitHub",
+      "feedback_github_repo": "MicrosoftDocs/learn",
+      "clicktale": true,
+      "uhfHeaderId": "MSDocsHeader-Learn"
+    },
+    "fileMetadata": {
+      
+    },
+    "template": [
+      
+    ],
+    "dest": "learn-PDETs-pr",
+    "markdownEngineName": "markdig"
+  }
+}

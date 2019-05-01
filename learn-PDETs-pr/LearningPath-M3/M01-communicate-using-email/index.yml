@@ -1,0 +1,36 @@
+### YamlMime:Module
+uid: learn.wwl-playground.communicate-using-email
+metadata:
+  title: Communicate Using Email - Learn
+  description: Communicate Using Email - Learn
+  ms.date: 01/31/2019
+  author: ctesta-oneillmsft
+  ms.author: chris.testaoneill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+title: Communicate Using Email
+summary: "You will learn how to communicate online using email."
+abstract: | 
+  In this module, you will be able to:
+  - Describe uses of email
+  - Identify options for getting set up with an email account
+  - Use an email service to send an email
+  - Use an email service to view and reply to messages.
+prerequisites: None.
+iconUrl: /learn/achievements/generic-badge.svg
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows
+units:
+- learn.wwl-playground.communicate-using-email.introduction
+- learn.wwl-playground.communicate-using-email.intro-to-email
+- learn.wwl-playground.communicate-using-email.sign-up-for-email
+- learn.wwl-playground.communicate-using-email.email-basics
+- learn.wwl-playground.communicate-using-email.compose-and-send-an-email
+- learn.wwl-playground.communicate-using-email.read-and-reply-to-email
+- learn.wwl-playground.communicate-using-email.summary
+badge:
+  uid: learn.wwl-playground.communicate-using-email.badge

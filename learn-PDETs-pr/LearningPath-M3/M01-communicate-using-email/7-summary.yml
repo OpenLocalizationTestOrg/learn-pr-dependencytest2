@@ -1,0 +1,62 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.communicate-using-email.summary
+title: Summary
+metadata:
+  title: Summary - Learn
+  description: Summary - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+
+quiz:
+  title: Check your knowledge
+  questions:
+
+  - content: "When you sign up for an email account, which of the following will you create?"
+    choices:
+      - content: "an email address"
+        isCorrect: true
+        explanation: "correct choice"
+      - content: "an email number"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "an account number"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "a payment plan"
+        isCorrect: false
+        explanation: "incorrect choice"
+
+  - content: "Which of the following parts of the email interface do you use to view the contents of a message you've received in Outlook?"
+    choices:
+      - content: "Inbox"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "Reading Pane"
+        isCorrect: true
+        explanation: "correct choice"
+      - content: "Drafts"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "Compose Pane"
+        isCorrect: false
+        explanation: "incorrect choice"
+
+  - content: "You receive a message from your manager about a project.  A new person joins your team and you need to share the project details with them.  Which of the following actions should you use to share the email with your new coworker without also sending the message to your manager?"
+    choices:
+      - content: "reply to the email and add your new coworker as a recipient"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "forward the email to your new coworker"
+        isCorrect: true
+        explanation: "correct choice"
+      - content: "reply to the email and bcc your new coworker"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "reply all to the email"
+        isCorrect: false
+        explanation: "incorrect choice"

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.chat-online.set-up-audio-and-video
+title: Set Up Audio and Video
+metadata:
+  title: Set Up Audio and Video - Learn
+  description: Set Up Audio and Video - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+content: |
+  [!include[](includes/5-set-up-audio-and-video.md)]

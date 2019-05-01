@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.use-the-cloud.upload-files-and-folders
+title: Upload Files and Folders
+metadata:
+  title: Upload Files and Folders - Learn
+  description: Upload Files and Folders - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+content: |
+  [!include[](includes/8-upload-files-and-folders.md)]

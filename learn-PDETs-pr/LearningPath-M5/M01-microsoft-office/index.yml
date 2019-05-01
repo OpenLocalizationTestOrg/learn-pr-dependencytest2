@@ -1,0 +1,32 @@
+### YamlMime:Module
+uid: learn.wwl-playground.microsoft-office
+metadata:
+  title: Microsoft Office - Learn
+  description: Microsoft Office - Learn
+  ms.date: 01/31/2019
+  author: ctesta-oneillmsft
+  ms.author: chris.testaoneill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+title: Microsoft Office
+summary: "You will be introduced to Microsoft Office and learn how you can use it for productivity in your daily work and personal activities."
+abstract: | 
+  In this module, you will be able to:
+  - Describe the basic benefits of Microsoft Office.
+  - Differentiate between Office 2016 and Office 365.
+  - Sign in to Office Online.
+prerequisites: None.
+iconUrl: /learn/achievements/generic-badge.svg
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows
+units:
+- learn.wwl-playground.microsoft-office.introduction
+- learn.wwl-playground.microsoft-office.intro-to-microsoft-office
+- learn.wwl-playground.microsoft-office.office-online
+- learn.wwl-playground.microsoft-office.summary
+badge:
+  uid: learn.wwl-playground.microsoft-office.badge

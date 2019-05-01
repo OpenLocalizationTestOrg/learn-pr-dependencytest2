@@ -1,0 +1,35 @@
+### YamlMime:Module
+uid: learn.wwl-playground.work-with-text
+metadata:
+  title: Work with Text - Learn
+  description: Work with Text - Learn
+  ms.date: 01/31/2019
+  author: ctesta-oneillmsft
+  ms.author: chris.testaoneill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+title: Work with Text
+summary: "You will learn how to work with text in Word documents."
+abstract: | 
+  In this module, you will be able to:
+  - Add text and modify the font styles of text in a Word document
+  - Check text spelling and grammar
+  - Find and replace text in a Word document
+  - Add and format lists
+prerequisites: None.
+iconUrl: /learn/achievements/generic-badge.svg
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows
+units:
+- learn.wwl-playground.work-with-text.introduction
+- learn.wwl-playground.work-with-text.add-and-format-text
+- learn.wwl-playground.work-with-text.check-text-spelling-and-grammar
+- learn.wwl-playground.work-with-text.find-and-replace-text
+- learn.wwl-playground.work-with-text.add-and-format-lists
+- learn.wwl-playground.work-with-text.summary
+badge:
+  uid: learn.wwl-playground.work-with-text.badge

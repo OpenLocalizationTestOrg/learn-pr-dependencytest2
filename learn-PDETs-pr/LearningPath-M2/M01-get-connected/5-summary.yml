@@ -1,0 +1,32 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.get-connected.summary
+title: Summary
+metadata:
+  title: Summary - Learn
+  description: Summary - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+
+quiz:
+  title: Check your knowledge
+  questions:
+
+  - content: What does it mean when a computer is "online"?
+    choices:
+      - content: "It is fully charged"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "It is waiting to connect to the Internet"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "It is connected to the Internet"
+        isCorrect: true
+        explanation: "correct choice"
+      - content: "It is powered on"
+        isCorrect: false
+        explanation: "incorrect choice"

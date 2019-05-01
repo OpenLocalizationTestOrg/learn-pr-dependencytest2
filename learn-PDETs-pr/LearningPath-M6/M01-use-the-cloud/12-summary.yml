@@ -1,0 +1,32 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.use-the-cloud.summary
+title: Summary
+metadata:
+  title: Summary - Learn
+  description: Summary - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+
+quiz:
+  title: Check your knowledge
+  questions:
+
+  - content: "To check recent activity on your files, you should select:"
+    choices:
+      - content: "Sort"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "View"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "Information"
+        isCorrect: true
+        explanation: "correct choice"
+      - content: "New"
+        isCorrect: false
+        explanation: "incorrect choice"

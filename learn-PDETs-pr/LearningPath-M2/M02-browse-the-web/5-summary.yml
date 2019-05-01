@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.browse-the-web.summary
+title: Summary
+metadata:
+  title: Summary - Learn
+  description: Summary - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+
+quiz:
+  title: Check your knowledge
+  questions:
+
+  - content: "Which of the following features of the browser allows you to open multiple webpages in the same window?"
+    choices:
+      - content: "Tabs"
+        isCorrect: true
+        explanation: "correct choice"
+      - content: "Favorites"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "History"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "Address bar"
+        isCorrect: false
+        explanation: "incorrect choice"
+
+  - content: "Which of the following opens a new webpage when clicked?"
+    choices:
+      - content: "A hyperlink"
+        isCorrect: true
+        explanation: "correct choice"
+      - content: "A webpage"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "A URL"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "A tooltip"
+        isCorrect: false
+        explanation: "incorrect choice"
+     

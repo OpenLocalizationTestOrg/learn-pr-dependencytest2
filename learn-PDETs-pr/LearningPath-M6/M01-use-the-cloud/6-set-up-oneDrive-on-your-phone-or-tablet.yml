@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.use-the-cloud.set-up-oneDrive-on-your-phone-or-tabletet-your-phone-or-tablet
+title: Set Up OneDrive on Your Phone or Tablet
+metadata:
+  title: Set Up OneDrive on Your Phone or Tablet - Learn
+  description: Set Up OneDrive on Your Phone or Tablet - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+content: |
+  [!include[](includes/6-set-up-oneDrive-on-your-phone-or-tablet.md)]

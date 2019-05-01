@@ -1,0 +1,35 @@
+### YamlMime:Module
+uid: learn.wwl-playground.share-and-collaborate-with-documents
+metadata:
+  title: Share and Collaborate with Documents - Learn
+  description: Share and Collaborate with Documents - Learn
+  ms.date: 01/31/2019
+  author: ctesta-oneillmsft
+  ms.author: chris.testaoneill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+title: Share and Collaborate with Documents
+summary: "You will learn how to collaborate with your peers or colleagues to access and work on documents together."
+abstract: | 
+  In this module, you will be able to:
+  - Share and collaborate on a Word document.
+  - Add comments and track changes that you make to a document.
+  - Accept or reject changes made by others. 
+prerequisites: None.
+iconUrl: /learn/achievements/generic-badge.svg
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows
+units:
+- learn.wwl-playground.share-and-collaborate-with-documents.introduction
+- learn.wwl-playground.share-and-collaborate-with-documents.share-a-document
+- learn.wwl-playground.share-and-collaborate-with-documents.collaborate-on-word-documents
+- learn.wwl-playground.share-and-collaborate-with-documents.add-comments
+- learn.wwl-playground.share-and-collaborate-with-documents.track-changes-in-a-word-document
+- learn.wwl-playground.share-and-collaborate-with-documents.accept-tracked-changes
+- learn.wwl-playground.share-and-collaborate-with-documents.summary
+badge:
+  uid: learn.wwl-playground.share-and-collaborate-with-documents.badge

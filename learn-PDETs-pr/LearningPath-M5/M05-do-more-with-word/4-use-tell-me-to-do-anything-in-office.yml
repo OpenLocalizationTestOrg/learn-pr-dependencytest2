@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.do-more-with-word.use-tell-me-to-do-anything-in-office
+title: Use Tell Me to Do Anything in Office
+metadata:
+  title: Use Tell Me to Do Anything in Office - Learn
+  description: Use Tell Me to Do Anything in Office - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+content: |
+  [!include[](includes/4-use-tell-me-to-do-anything-in-office.md)]

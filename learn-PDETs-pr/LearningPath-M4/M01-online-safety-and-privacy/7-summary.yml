@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.online-safety-and-privacy.summary
+title: Summary
+metadata:
+  title: Summary - Learn
+  description: Summary - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+
+quiz:
+  title: Check your knowledge
+  questions:
+
+  - content: "Which of the following should you look for in the URL of a webpage to make sure you're on a secure site?"
+    choices:
+      - content: "http"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "secure"
+        isCorrect: false
+        explanation: "incorrect choice"        
+      - content: "https"
+        isCorrect: true
+        explanation: "correct choice"
+      - content: "ssh"
+        isCorrect: false
+        explanation: "incorrect choice"
+
+  - content: "Your digital footprint is:"
+    choices:
+      - content: "The size of the information in your accounts online"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "The number of people you are connected to online"
+        isCorrect: false
+        explanation: "incorrect choice"        
+      - content: "A digital record of everything you do and say online"
+        isCorrect: true
+        explanation: "correct choice"
+      - content: "Your online username"
+        isCorrect: false
+        explanation: "incorrect choice"

@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.do-more-with-word.summary
+title: Summary
+metadata:
+  title: Summary - Learn
+  description: Summary - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+
+quiz:
+  title: Check your knowledge
+  questions:
+
+  - content: "From which of the following menus can you apply a theme?"
+    choices:
+      - content: "Design "
+        isCorrect: true
+        explanation: "correct choice"
+      - content: "Draw"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "Insert"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "View"
+        isCorrect: false
+        explanation: "incorrect choice"
+
+  - content: "To add an equation, you can press:"
+    choices:
+      - content: "Alt+= "
+        isCorrect: true
+        explanation: "correct choice"
+      - content: "Alt+- "
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "Alt+_"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "Alt+e "
+        isCorrect: false
+        explanation: "incorrect choice"
