@@ -7,7 +7,7 @@
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
-      "open_to_public_contributors": true,
+      "open_to_public_contributors": false,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
@@ -30,7 +30,7 @@
     {
       "docset_name": "learn-pr-rtl",
       "build_source_folder": "learn-PDETs-pr",
-      "build_output_subfolder": "learn-pr-rtl",
+      "build_output_subfolder": "learn-PDETs-pr",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
