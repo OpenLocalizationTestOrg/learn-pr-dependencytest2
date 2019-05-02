@@ -15,8 +15,6 @@
       },
       "build_entry_point": "docs",
       "template_folder": "_themes.VS.Modern",
-      "base_path": "java",
-      "site_name": "VS.Modern",
       "customized_template_paths": [
         "_dependentPackages/memberpage.plugins/content"
       ],
@@ -28,6 +26,20 @@
       "SplitTOC": [
         "docs-ref-autogen/toc.yml"
       ]
+    },
+    {
+      "docset_name": "learn-pr-rtl",
+      "build_source_folder": "learn-PDETs-pr",
+      "build_output_subfolder": "learn-pr-rtl",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
     }
   ],
   "notification_subscribers": [],
