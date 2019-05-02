@@ -1,7 +1,7 @@
 {
   "docsets_to_publish": [
     {
-      "docset_name": "learn-PDETs-pr",
+      "docset_name": "learn-PDETs-pr-testrtl",
       "build_source_folder": "learn-PDETs-pr",
       "build_output_subfolder": "learn-PDETs-pr",
       "locale": "en-us",
