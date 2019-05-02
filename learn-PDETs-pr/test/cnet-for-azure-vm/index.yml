@@ -34,3 +34,5 @@ units:
 - learn-PDETs-pr.cnet-for-azure-vm.3-exercise-create-azure-virtual-network
 - learn-PDETs-pr.cnet-for-azure-vm.4-explore-azure-vpn-gateway
 - learn-PDETs-pr.cnet-for-azure-vm.5-exercise-create-azure-vpn-gateway
+badge:
+  uid: learn.data-ai.train-local-model-with-azure-mls.badge
